@@ -15,6 +15,8 @@ The following **required** functionality is completed:
 * [x] User can **Bird by default tends to go down, pressing spacebar pushes it upwards (which is used to dodge obstacles)**
 * [x] User can enjoy **The background music and different sounds on winning or crashing**
 * [x] User can **safely exit the program and Scores are reflected on the top of the screen** 
+* [x] I learnt **different techniques in Adobe Photoshop**
+* [x] Installed **Flappy Bird Font** to make the program more stylish and natural looking.  
 
 ## Video Walkthrough
 
